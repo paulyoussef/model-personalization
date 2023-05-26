@@ -120,7 +120,7 @@ torch==1.10.1+cu113
 torchaudio==0.10.1+cu113
 torchmeta==1.7.0
 torchvision==0.11.2+cu113
-tornado==6.1
+tornado==6.3.2
 tqdm==4.62.0
 traitlets==5.0.5
 typing-extensions==3.7.4.3
